@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\kuis\kuis\bin\Debug\kuis.exe.config
+C:\Users\Lenovo\source\repos\kuis\kuis\bin\Debug\kuis.exe
+C:\Users\Lenovo\source\repos\kuis\kuis\bin\Debug\kuis.pdb
+C:\Users\Lenovo\source\repos\kuis\kuis\bin\Debug\kuis.xml
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.Form1.resources
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.Resources.resources
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.exe
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.xml
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.pdb
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.soal1.resources
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.soal2.resources
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.soal3.resources
+C:\Users\Lenovo\source\repos\kuis\kuis\obj\Debug\kuis.soal4.resources
